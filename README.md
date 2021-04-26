@@ -35,6 +35,6 @@ def word(request):
 10.  ```git remote -v```
 11.  ```git remote add heroku 網址```
 12.  ```git add .```
-13.  ```git commit -m 'first'
+13.  ```git commit -m 'first'```
 14.  ```git push heroku master```
 15. Browse the website   
