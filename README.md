@@ -5,7 +5,7 @@ I use pydictionary package in this project.
 And deploy on the heroku.  
 Demo : https://englishdictionary123.herokuapp.com/. 
 
-** The following code is in Django_english_dictionary/dictionary/views.py  
+## The following code is in Django_english_dictionary/dictionary/views.py  
 It shows how I use the dictionary!  
 ```python
 def word(request):
@@ -22,7 +22,7 @@ def word(request):
     return render(request, 'word.html', context)
 ```
 
-** Deploy on heroku
+## Deploy on heroku
 
 1. ```pip install gunicorn django-heroku```
 2. Add runtime.txt file at root , type ```python-3.9.1```
