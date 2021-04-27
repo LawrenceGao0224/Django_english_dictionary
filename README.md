@@ -1,5 +1,6 @@
 # Django english dictionary
 
+This is my third practice of django.  
 This project is similar to Django_urlshorter (https://github.com/LawrenceGao0224/Django_urlshorter).  
 I use pydictionary package in this project.  
 And deploy on the heroku.  
